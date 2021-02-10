@@ -1,4 +1,4 @@
-# Natural language processing - or: Getting the most out of text
+# Natural language processing
 
 This repository contains all the material that I used for my past talks on NLP.
 
